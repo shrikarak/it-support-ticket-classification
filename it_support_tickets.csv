@@ -1,0 +1,31 @@
+description,category
+"My computer is running very slow and the fan is loud.",Hardware
+"The monitor is not turning on, I see a blinking light.",Hardware
+"My keyboard is not working, some keys are stuck.",Hardware
+"I dropped my laptop and the screen is cracked.",Hardware
+"The mouse is not connecting to my computer via Bluetooth.",Hardware
+"My printer is not printing, it says 'paper jam' but there is no paper.",Hardware
+"The CPU usage is at 100% even when idle.",Hardware
+"My laptop battery is draining very quickly.",Hardware
+"I need a new mouse because the scroll wheel is broken.",Hardware
+"The webcam is not being detected by any application.",Hardware
+"I am unable to install the new version of our design software.",Software
+"Microsoft Excel keeps crashing whenever I open a large file.",Software
+"I am getting a 'license expired' error for my antivirus software.",Software
+"The application is frozen and I cannot close it.",Software
+"I need help setting up my email client, I can't find the server settings.",Software
+"After the recent update, the CRM software is not loading.",Software
+"I forgot my password for the accounting software and need a reset.",Software
+"The video conferencing app has no audio.",Software
+"I am getting a blue screen of death (BSOD) when I run the analytics tool.",Software
+"The new software update failed to install correctly.",Software
+"I cannot connect to the office WiFi.",Network
+"The internet connection is very slow and keeps dropping.",Network
+"I am unable to access the shared network drive.",Network
+"The VPN is not connecting, it's giving a timeout error.",Network
+"I cannot access any external websites, but internal sites are working.",Network
+"The office firewall is blocking my access to a required development site.",Network
+"My IP phone is not working, there is no dial tone.",Network
+"I need to have a new network port activated in my office.",Network
+"The connection to the remote server is frequently disconnecting.",Network
+"Email is not being sent or received, I think there's a network issue.",Network
